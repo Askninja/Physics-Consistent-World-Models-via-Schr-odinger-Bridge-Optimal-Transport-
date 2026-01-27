@@ -1,4 +1,4 @@
-# Physics-Consistent World Models via Schrödinger Bridge Optimal Transport
+# Physics-Consistent World Models via Schrödinger Bridge Optimal Transport [AAAI 26]
 
 **Accepted to the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**  
 
