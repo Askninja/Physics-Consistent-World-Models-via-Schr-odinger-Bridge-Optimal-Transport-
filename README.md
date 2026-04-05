@@ -9,7 +9,7 @@
 
 ## Poster
 
-![AAAI 2026 Poster](poster.png)
+![AAAI 2026 Poster](poster-2.png)
 
 ---
 
