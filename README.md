@@ -1,7 +1,30 @@
-# Physics-Consistent World Models via Schrödinger Bridge Optimal Transport [AAAI 26]
+# Physics-Consistent World Models via Schrödinger Bridge Optimal Transport
 
-**Accepted to the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**  
+**Accepted to the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)**
 
-📄 **Paper (PDF):** [Download paper](paper.pdf)  
-🖼️ **Poster (PDF):** [Download poster](poster.pdf)  
-🔗 **Proceedings Link:** [AAAI Proceedings Version](https://assets.underline.io/lecture/139142/paper/6ae959c7465f78d2c330efa513b0764d.pdf?Expires=1769659208&Signature=keODrugy-fatYYSLD0ETYYzEQpZDVC31p3W9AhNV4bEorcPLaDnxb2Nv9ZxxxwGKg01n5JlR9SE-s93EbZLyLRQNsL-DQdNJAOhLsT79al7mqnIxbmvvCseLLLhCfmZo4cnBiMs5-E2~PKs7i4gLl5fISRLOuvHkfGgIdlJBg7PdkprZS7P5OwsTHSvIKoKlyVLSTrUGBEfok80ZWFC1D8J9WpuANgYMJOvJ1-olepQUEfQ9qliOUW7jS3yrEw7y99bYxu9SwlDkc5G2ZrSITN3Y1-wX3C8ZvCuEhdRzihyNLgrnM~JeFWrmXKJQAmmbd21AoKdVBp4W2qoECGhhJg__&Key-Pair-Id=K2CNXR0DE4O7J0)  
+📄 **Paper (PDF):** [Download paper](https://ojs.aaai.org/index.php/AAAI/article/view/42325/46286)  
+🖼️ **Poster (PDF):** [Download poster](https://ojs.aaai.org/index.php/AAAI/article/view/42325/46820)
+
+---
+
+## Poster
+
+![AAAI 2026 Poster](poster.png)
+
+---
+
+## Abstract
+
+Current generative video models produce realistic frames but often break geometry, depth, and physical consistency across time. This work explores a finite-time Schrödinger Bridge formulation that enforces geometric and physics-based structure along the entire latent path, enabling stable 3D-consistent and physically plausible video generation.
+
+## Citation
+
+```bibtex
+@inproceedings{abhiram2026physics,
+  title     = {Physics-Consistent World Models via Schrödinger Bridge Optimal Transport},
+  author    = {Srivatsa Kadaba Abhiram},
+  booktitle = {Proceedings of the 40th AAAI Conference on Artificial Intelligence},
+  year      = {2026}
+}
+```
+
